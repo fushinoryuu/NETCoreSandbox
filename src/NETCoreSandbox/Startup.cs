@@ -49,7 +49,8 @@ namespace NETCoreSandbox
                 app.UseBrowserLink();
                 app.UseWebpackDevMiddleware(new WebpackDevMiddlewareOptions
                 {
-                    HotModuleReplacement = true
+                    HotModuleReplacement = true,
+                    ReactHotModuleReplacement = true
                 });
             }
             else
