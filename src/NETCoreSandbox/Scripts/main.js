@@ -1,4 +1,2 @@
-﻿var other = require('./other');
-alert("test");
+﻿import Hello from "./Hello.jsx";
 
-other();

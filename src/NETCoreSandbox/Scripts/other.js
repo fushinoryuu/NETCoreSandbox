@@ -1,6 +1,6 @@
-﻿function func() {
+﻿export default function func() {
     alert('yer mom!');
-    alert("test");
+    alert("test2");
     console.log("Herp derp");
 }
-module.exports = func;
+//module.exports = func;
