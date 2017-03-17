@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "name": "asp.net",
+  "private": true,
+  "devDependencies": {},
+  "dependencies": {
+    "aspnet-webpack": "^1.0.28",
+    "webpack": "^2.2.1",
+    "aspnet-webpack-react": "^1.0.5",
+    "react": "15.4.2",
+	"webpack-hot-middleware" : "^2.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "webpack.config.js",
+  "description": ""
+}
